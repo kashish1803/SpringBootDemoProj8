@@ -18,7 +18,7 @@ public class MyController {
 	 	@GetMapping("/home")
 	    public String home()
 	    {
-	         return "Hello! welcome to Spring Security ";
+	         return "Hello! welcome to Spring Security !!! ";
 	    }
 	 	
 	 	
